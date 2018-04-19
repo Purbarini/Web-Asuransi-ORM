@@ -131,16 +131,3 @@
             <script src="assets/scripts/klorofil-common.js"></script>
     </body>
 </html>
-
-
-
-<html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>test</title>
-    </head>
-    <body>
-
-
-    </body>
-</html>
